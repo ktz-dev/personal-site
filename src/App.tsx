@@ -17,7 +17,7 @@ function App() {
             I can conduct non-functional testing for gathering performance and
             reliability metrics using tools like JMeter and LoadRunner.
             <br /> <br />I can built websites using modern JavaScript tools and
-            framworks like TypeScript, React, Node, Express and more
+            framworks like TypeScript, React, Node, Express and more.
           </p>
           <a href="https://www.github.com/ktz-dev">
             <button className="py-2 px-4 border-2 border-white rounded-md cursor-pointer hover:bg-blue-300 text-white mr-2 mt-2">
